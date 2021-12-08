@@ -1,3 +1,33 @@
-.wrapper{
+body {
+    background-color: darkseagreen;
+}
+
+.header, .footer {
     text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.main {
+    margin: 39.5% 10%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.form {
+    display: grid;
+    grid-column-gap: 10%;
+}
+
+button {
+    margin: 0 45%;
+}
+
+input {
+}
+
+.footer {
+    alignment: bottom;
 }
