@@ -1,0 +1,77 @@
+body {
+    background-color: burlywood;
+    margin-bottom: 10%;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0.5vh;
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.header {
+    margin-left: 40vw;
+}
+
+.hello {
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+
+.list {
+    margin-left: 5%;
+}
+
+.item {
+    border: azure;
+    background-color: antiquewhite;
+    padding: 1%;
+    margin-left: 5%;
+    margin-top: 5%;
+    width: content-box;
+    display: inline-block;
+}
+
+.item:hover {
+    background-color: darkgoldenrod;
+}
+
+.desc {
+    margin-left: 40%;
+}
+
+.text {
+    margin-top: 5vh;
+    margin-left: 2vw;
+}
+.main-img {
+    margin-top: 5vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    float: left;
+}
+
+.button {
+    margin-top: 5%;
+}
+.button:hover {
+    transform: scale(2, 2);
+}
+
+.main-text {
+    padding-top: 5%;
+}
+
+.form {
+    margin-left: 40vw;
+    display: inline-block;
+    background-color: blanchedalmond;
+}
+
+.submit {
+    margin-left: 35%;
+    margin-top: 5%;
+}
